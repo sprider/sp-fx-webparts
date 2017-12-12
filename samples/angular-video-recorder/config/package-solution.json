@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "angular-video-recorder",
+    "id": "d4cbc7f9-8a7f-4e03-b2b4-c4674820601d",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/angular-video-recorder.sppkg"
+  }
+}

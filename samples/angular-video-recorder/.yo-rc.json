@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "angular-video-recorder",
+    "libraryId": "d4cbc7f9-8a7f-4e03-b2b4-c4674820601d",
+    "environment": "onprem"
+  }
+}
