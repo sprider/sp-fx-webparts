@@ -27,7 +27,7 @@ angular-media-recorder|Joseph Velliah (SPRIDER, @sprider)
 
 Version|Date|Comments
 -------|----|--------
-1.0|September 04, 2017|Initial release
+1.0|June 1, 2018|Initial release
 
 ## Disclaimer
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
